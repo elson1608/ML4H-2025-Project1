@@ -1,0 +1,8 @@
+.venv
+venv
+testvenv
+.idea
+*.pdf
+data/
+*.pth
+*.zip
